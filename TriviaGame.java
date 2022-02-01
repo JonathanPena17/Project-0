@@ -16,7 +16,7 @@ public class TriviaGame
 
         Question[] questions = new Question [10];
 
-        questions[0] = new Question("\n Who was the 45th president of the United States of America? \n",
+        questions[0] = new Question("\n Who was the 44th president of the United States of America? \n",
                                       "1. Donald J. Trump ", "2. Barrak Hussein Obama II ", 
                                       "3. Joseph Robinette Biden Jr. ", "4. George Walker Bush ", 2);
         questions[1] = new Question("\n Before becoming dictator, Adolf Hitler's dream was to become a/an. ", 
